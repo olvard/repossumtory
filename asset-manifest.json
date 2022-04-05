@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/repossumtory/possumtory/build/static/css/main.b402aeb5.css",
+    "main.js": "/repossumtory/possumtory/build/static/js/main.bb26e057.js",
+    "index.html": "/repossumtory/possumtory/build/index.html",
+    "main.b402aeb5.css.map": "/repossumtory/possumtory/build/static/css/main.b402aeb5.css.map",
+    "main.bb26e057.js.map": "/repossumtory/possumtory/build/static/js/main.bb26e057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b402aeb5.css",
+    "static/js/main.bb26e057.js"
+  ]
+}
