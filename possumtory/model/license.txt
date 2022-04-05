@@ -1,0 +1,11 @@
+Model Information:
+* title:	Opossum Mom
+* source:	https://sketchfab.com/3d-models/opossum-mom-88472cc3c22e41cea63af8ad2d3a1310
+* author:	peachyroyalty (https://sketchfab.com/peachyroyalty)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Opossum Mom" (https://sketchfab.com/3d-models/opossum-mom-88472cc3c22e41cea63af8ad2d3a1310) by peachyroyalty (https://sketchfab.com/peachyroyalty) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

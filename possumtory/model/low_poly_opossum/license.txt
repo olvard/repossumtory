@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Opossum
+* source:	https://sketchfab.com/3d-models/low-poly-opossum-5edad50b0ced4fa1915f3f9861af3b7f
+* author:	Xana_Nouille (https://sketchfab.com/Xana_Nouille)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Opossum" (https://sketchfab.com/3d-models/low-poly-opossum-5edad50b0ced4fa1915f3f9861af3b7f) by Xana_Nouille (https://sketchfab.com/Xana_Nouille) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
