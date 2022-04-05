@@ -1,7 +1,6 @@
 import React, { useRef, useState } from 'react'
 import { useGLTF } from '@react-three/drei'
 import { useFrame } from '@react-three/fiber'
-import { Physics } from '@react-three/cannon'
 
 export default function Model(props) {
   const group = useRef()
