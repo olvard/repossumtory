@@ -4,7 +4,9 @@
     "main.js": "/static/js/main.bb26e057.js",
     "index.html": "/index.html",
     "main.b402aeb5.css.map": "/static/css/main.b402aeb5.css.map",
-    "main.bb26e057.js.map": "/static/js/main.bb26e057.js.map"
+    "main.bb26e057.js.map": "/static/js/main.bb26e057.js.map",
+    "opossum.glb": "/opossum.glb"
+
   },
   "entrypoints": [
     "static/css/main.b402aeb5.css",
