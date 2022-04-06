@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b402aeb5.css",
-    "main.js": "/static/js/main.bb26e057.js",
+    "main.css": "possumtory/build/static/css/main.b402aeb5.css",
+    "main.js": "possumtory/build/static/js/main.bb26e057.js",
     "index.html": "/index.html",
-    "main.b402aeb5.css.map": "/static/css/main.b402aeb5.css.map",
-    "main.bb26e057.js.map": "/static/js/main.bb26e057.js.map",
+    "main.b402aeb5.css.map": "possumtory/build/static/css/main.b402aeb5.css.map",
+    "main.bb26e057.js.map": "possumtory/build/static/js/main.bb26e057.js.map",
     "opossum.glb": "/opossum.glb"
 
   },
   "entrypoints": [
-    "static/css/main.b402aeb5.css",
-    "static/js/main.bb26e057.js"
+    "possumtory/build/static/css/main.b402aeb5.css",
+    "possumtory/build/static/js/main.bb26e057.js"
   ]
 }
