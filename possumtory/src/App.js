@@ -32,6 +32,7 @@ function App() {
           <Suspense fallback={null}>
             <Model />
           </Suspense>
+
           <mesh position={[0, -2, 0]} rotation={[Math.PI / 2, 0, Math.PI / 2]}>
             <planeGeometry args={[10, 10]} />
             <meshStandardMaterial color='hotpink' />
