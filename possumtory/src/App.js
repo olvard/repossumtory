@@ -29,7 +29,7 @@ function App() {
           <ambientLight intensity={0.1} />
           <pointLight color='white' position={[50, 50, 50]} />
           <Physics gravity={[0, 2, 0]} iterations={10}></Physics>
-          <Suspense>
+          <Suspense fallback={null}>
             <Model />
           </Suspense>
           <mesh position={[0, -2, 0]} rotation={[Math.PI / 2, 0, Math.PI / 2]}>
