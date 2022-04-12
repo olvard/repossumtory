@@ -4,7 +4,7 @@ import { useFrame } from '@react-three/fiber'
 
 export default function Model(props) {
   const group = useRef()
-  const { nodes, materials } = useGLTF.preload('opossum.glb')
+  const { nodes, materials } = useGLTF('opossum.glb')
 
   //State for scale
   const [active, setActive] = useState(false)
@@ -32,4 +32,4 @@ export default function Model(props) {
   )
 }
 
-useGLTF.preload('/opossum.glb')
+useGLTF.preload('opossum.glb')

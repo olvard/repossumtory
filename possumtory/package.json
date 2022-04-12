@@ -2,7 +2,7 @@
   "name": "possumtory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://olvard.github.io/repossumtory/possumtory/build",
+  "homepage": "https://olvard.github.io/repossumtory/possumtory/build/",
   "dependencies": {
     "@react-three/cannon": "^6.1.0",
     "@react-three/drei": "^9.0.1",
