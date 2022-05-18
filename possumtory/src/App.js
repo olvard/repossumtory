@@ -1,7 +1,7 @@
 import './App.css'
 import React from 'react'
 import { Canvas } from '@react-three/fiber'
-import { OrbitControls } from '@react-three/drei'
+import { OrbitControls, Stage } from '@react-three/drei'
 import { Physics } from '@react-three/cannon'
 import { Suspense } from 'react'
 import Model from './Model'
@@ -26,14 +26,14 @@ function App() {
 
       <div className='absolute inset-y-0 right-0 w-2/4'>
         <Canvas>
-          <ambientLight intensity={0.1} />
-          <pointLight color='white' position={[50, 50, 50]} />
-          <Physics gravity={[0, 2, 0]} iterations={10}></Physics>
-          <Suspense fallback={null}>
-            <Model />
-          </Suspense>
+          {/* <ambientLight intensity={0.1} />
+          <pointLight color='white' position={[50, 50, 50]} /> */}
+          <Stage contactShadow shadows adjustCamera intensity={0.5} environment='city' preset='rembrandt'>
+            <Suspense fallback={null}>
+              <Model />
+            </Suspense>
+          </Stage>
 
-        
           <OrbitControls />
         </Canvas>
       </div>
