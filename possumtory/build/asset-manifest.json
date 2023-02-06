@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b402aeb5.css",
-    "main.js": "/static/js/main.cbac7954.js",
-    "index.html": "/index.html",
-    "main.b402aeb5.css.map": "/static/css/main.b402aeb5.css.map",
-    "main.cbac7954.js.map": "/static/js/main.cbac7954.js.map",
-    "opossum.glb": "/opossum.glb"
+    "main.css": "/repossumtory/possumtory/build/static/css/main.b402aeb5.css",
+    "main.js": "/repossumtory/possumtory/build/static/js/main.cbac7954.js",
+    "index.html": "/repossumtory/possumtory/build/index.html",
+    "main.b402aeb5.css.map": "/repossumtory/possumtory/build/static/css/main.b402aeb5.css.map",
+    "main.cbac7954.js.map": "/repossumtory/possumtory/build/static/js/main.cbac7954.js.map"
   },
   "entrypoints": [
     "static/css/main.b402aeb5.css",
