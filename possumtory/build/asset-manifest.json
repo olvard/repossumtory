@@ -4,7 +4,8 @@
     "main.js": "/static/js/main.cbac7954.js",
     "index.html": "/index.html",
     "main.b402aeb5.css.map": "/static/css/main.b402aeb5.css.map",
-    "main.cbac7954.js.map": "/static/js/main.cbac7954.js.map"
+    "main.cbac7954.js.map": "/static/js/main.cbac7954.js.map",
+    "opossum.glb": "/opossum.glb"
   },
   "entrypoints": [
     "static/css/main.b402aeb5.css",
