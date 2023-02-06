@@ -29,10 +29,6 @@ function App() {
           <pointLight color='white' position={[50, 50, 50]} />
           <Physics gravity={[0, 2, 0]} iterations={10}></Physics>
           <Model />
-          <mesh position={[0, -2, 0]} rotation={[Math.PI / 2, 0, Math.PI / 2]}>
-            <planeGeometry args={[10, 10]} />
-            <meshStandardMaterial color='hotpink' />
-          </mesh>
           <OrbitControls />
         </Canvas>
       </div>
